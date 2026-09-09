@@ -24,6 +24,20 @@
 The platform connects businesses with suppliers and wholesalers while supporting different commercial workflows across web and mobile.
 
 ---
+## Product Preview
+
+<p align="center">
+  <img src="screenshots/01-home.jpeg" width="23%" />
+  <img src="screenshots/02-home.png" width="23%" />
+  <img src="screenshots/03-home.png" width="23%" />
+  <img src="screenshots/04-home.png" width="23%" />
+</p>
+
+<p align="center">
+  <i>Selected interface previews from the Talabyaat platform</i>
+</p>
+
+---
 
 ## The Business Goal
 
